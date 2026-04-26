@@ -2,6 +2,18 @@
 
 EuroHPC proposal and benchmark workspace for TVB-based personalized brain simulation and GPU-hour allocation planning.
 
+## EuroHPC Access Strategy
+The project follows a multi-stage access strategy to secure high-performance computing resources:
+
+1. **Benchmark Access**: Initial performance evaluation and benchmarking of TVB simulations.
+2. **Development Access**: Code optimization, parallelization, and porting to EuroHPC systems.
+3. **Regular Access**: Target phase for full-scale simulations (1M+ GPU-hours candidate).
+4. **Extreme Scale Access** (Future): Deployment of large-scale digital twins.
+
+## Core Resources
+- Official EuroHPC JU Access Policy & FAQ: [Link](https://eurohpc-ju.europa.eu/supercomputers/supercomputers-access-policy-and-faq_en)
+- Access Portal: [Apply Now](https://access.eurohpc-ju.europa.eu/)
+
 ## Structure
 - `proposal/`: Proposal drafts and related materials
 - `benchmarks/`: Benchmark tasks and performance metrics
